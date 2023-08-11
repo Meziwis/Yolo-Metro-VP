@@ -1,0 +1,14 @@
+input_paths:
+  - Videos/cam_6_hospital_2/cam_6_hosp_2.avi
+  # - /path/to/video2.mp4
+output_paths:
+  - output
+  # - /path/to/output2
+fps:
+  - 10
+start_times:
+  - [00:00:01, 00:00:11]
+  # - [00:05:00, 00:10:00]
+end_times:
+  - [00:00:05, 00:00:15]
+  # - [00:10:00, 00:15:00]
