@@ -1,5 +1,5 @@
 input_paths:
-  - Videos/cam_6_hospital_2/cam_6_hosp_2.avi
+  - ../Videos/cam_6_hospital_2/cam_6_hosp_2.avi
   # - /path/to/video2.mp4
 output_paths:
   - output
